@@ -1,5 +1,4 @@
-
-# monk
+# Monk
 
 Monk is a tiny layer that provides simple yet substantial usability
 improvements for MongoDB usage within Node.JS.
